@@ -1,0 +1,49 @@
+Moodify is a clean, responsive UI for a mood-based music player app. The interface allows users to select their mood (e.g., Happy, Sad, Energetic, Calm) and receive playlist suggestions accordingly. The project focuses purely on frontend design—no backend or API integration—making it ideal for beginners. It features animated buttons, color-changing backgrounds based on mood, and a modern card layout for playlists. Moodify demonstrates essential UI/UX concepts like user interaction feedback, responsive layout, smooth transitions, and color psychology in design.
+
+
+---
+
+💻 Features:
+
+🎵 Mood selection buttons with hover & click effects
+
+🌈 Dynamic background color changes based on mood
+
+📱 Responsive layout (mobile + desktop)
+
+🎧 Playlist cards with album art, track count & play button
+
+🌓 Light/Dark Mode Toggle
+
+⚙️ Minimal animation using CSS or Framer Motion (if using React)
+
+
+
+---
+
+🔗 GitHub Repo Structure:
+
+moodify-music-ui/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── images/
+
+
+---
+
+🛠 Tech Stack:
+
+HTML5
+
+CSS3 (or Tailwind CSS)
+
+JavaScript (or React if advanced)
+
+
+
+---
+
+Would you like the complete code in plain HTML/CSS/JS or using React + Tailwind?
+
